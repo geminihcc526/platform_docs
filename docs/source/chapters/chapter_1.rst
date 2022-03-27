@@ -5,3 +5,12 @@
 通过地理位置信息(GIS) 迭加Mesh Model 迭加 BIM 模型，帮助用户更快更完整的了解项目建设结果。
 
 .. image:: ../images/images_1.png
+
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
