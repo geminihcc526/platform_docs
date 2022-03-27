@@ -9,5 +9,3 @@
    :maxdepth: 2
 
    chapters/chapter_1
-
-.. image:: media/images_1.png
