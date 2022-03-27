@@ -1,5 +1,3 @@
-.. vim: syntax=rst
-
 一、软件概述
 ===========
 
@@ -7,7 +5,3 @@
 通过地理位置信息(GIS) 迭加Mesh Model 迭加 BIM 模型，帮助用户更快更完整的了解项目建设结果。
 
 .. image:: ../media/image_1.png
-
-.. figure:: ../media/image_1.png
-
-.. image:: image_1.png
