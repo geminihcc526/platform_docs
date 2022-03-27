@@ -6,6 +6,6 @@
 
 .. image:: ../media/images_1.png
 
-.. figure: ../media/images_1.png
+.. figure:: ../media/images_1.png
 
 .. image:: images_1.png
