@@ -6,6 +6,6 @@
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   chapters/chapter_1
