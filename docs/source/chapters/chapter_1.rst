@@ -11,3 +11,5 @@
 .. figure:: ../media/images_1.png
 
 .. image:: images_1.png
+   :width: 4.09375in
+   :height: 3.89583in
