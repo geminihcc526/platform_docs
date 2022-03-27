@@ -6,11 +6,4 @@
 
 .. image:: ../images/images_1.png
 
-=====  =====  =======
-A      B      A and B
-=====  =====  =======
-False  False  False
-True   False  False
-False  True   False
-True   True   True
-=====  =====  =======
+.. image:: images_1.png
